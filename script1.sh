@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 echo " frist script"
 date
 uname -a
